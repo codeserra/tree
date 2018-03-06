@@ -6,11 +6,11 @@ Binary tree is made of nodes, each node points to a left node, right node, and a
 - leaf are the nodes that don't have any children
 example:
 
-         1                     top most node with element 1 is node
-       /   \                   4 and 5 are leaves
-      2     3
-    /  \
-   4    5
+          1                     top most node with element 1 is node
+        /   \                   
+       2     3
+     /  \
+    4    5                       4 and 5 are leaves
    
    
 Typical Binary Tree Code in C/C++
